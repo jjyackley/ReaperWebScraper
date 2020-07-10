@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/jyack/Desktop/jsoup-1.11.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jyack/Desktop/opencsv-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jyack/Documents/JavaWorkspace/ReaperWS/opencsv-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jyack/Documents/JavaWorkspace/ReaperWS/jsoup-1.13.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
